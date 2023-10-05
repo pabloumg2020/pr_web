@@ -1,0 +1,2 @@
+C:\Users\Pablo\Desktop\8 S\1 Desarrollo Web\tareas\Aplicacion web ASP.NET (.NET FRAMEWORK)\pr_web\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\8 S\1 Desarrollo Web\tareas\Aplicacion web ASP.NET (.NET FRAMEWORK)\pr_web\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
